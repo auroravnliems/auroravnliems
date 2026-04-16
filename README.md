@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Minecraft+Plugin+Developer;Server+Infrastructure+%26+DevOps;Java+%C2%B7+Kotlin+%C2%B7+Paper+API;Bytecode+Patching+%26+Reverse+Engineering;Plugin+Security+%26+Obfuscation;AuroraCraft+Network" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Minecraft+Plugin+Developer;Server+Infrastructure+%26+DevOps;Java+%C2%B7+Kotlin+%C2%B7+Paper+API;Bytecode+Patching+%26+Reverse+Engineering;Plugin+Security+%26+Obfuscation;ASGNetwork" alt="Typing SVG" /></a>
 </p>
 
 **[🇬🇧](README.md) | [🇻🇳](README_VI.md)**
 
 ---
 
-> **Note (April 2026):** Actively building and maintaining the AuroraCraft server ecosystem — most work lives in private repos, but I'm always reachable.
+> **Note (April 2026):** Actively building and maintaining the ASGNetwork server ecosystem — most work lives in private repos, but I'm always reachable.
 
 🇻🇳 Working primarily on Minecraft plugin development, server infrastructure, and build tooling.
 
@@ -122,7 +122,7 @@
 
 ## Featured Projects
 
-### 🔧 AuroraCraft Plugin Suite
+### 🔧 Aurora_VN Plugin Suite
 
 - ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraCombat?style=flat-square&color=blue)](http://dsc.gg/auroravn) [**AuroraCombat**](http://dsc.gg/auroravn) - Full PvP combat management — combat tag, PvP toggle, newbie protection, anti-border hopping, item cooldowns, kill rewards & anti-abuse. Paper 1.21.1+ / Folia. **License:** Proprietary.
 
@@ -136,10 +136,10 @@
 
 ### 🛠️ Forks & Patches
 
-- ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraMMOSkills?style=flat-square&color=blue)]([http://dsc.gg/auroravn) [**AuroraMMOSkills**](http://dsc.gg/auroravn)) - Full mcMMO fork rebranded under a new package with a custom GUI module and AuroraCraft-specific skill progression.
+- ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraMMOSkills?style=flat-square&color=blue)]([http://dsc.gg/auroravn) [**AuroraMMOSkills**](http://dsc.gg/auroravn)) - Full mcMMO fork rebranded under a new package with a custom GUI module and AuroraSurvival-specific skill progression.
 
 
-### 🌍 Server Infrastructure — AuroraCraft
+### 🌍 Server Infrastructure — ASGNetwork
 
 - 🌐 [![Site](https://img.shields.io/badge/asgmc.net-online-brightgreen?style=flat-square)](asgmc.net) **ASGNetwork** — Leaf 1.21.x · Pterodactyl on VPS · TCPShield + iptables DDoS mitigation · Cloudflare-proxied panel · Terra world generation (Origen, Tartarus, ReimagEND).
 
