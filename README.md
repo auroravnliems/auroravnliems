@@ -2,8 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Minecraft+Plugin+Developer;Server+Infrastructure+%26+DevOps;Java+%C2%B7+Kotlin+%C2%B7+Paper+API;Bytecode+Patching+%26+Reverse+Engineering;Plugin+Security+%26+Obfuscation;ASGNetwork" alt="Typing SVG" /></a>
 </p>
 
-**[🇬🇧](README.md) | [🇻🇳](README_VI.md)**
-
 ---
 
 > **Note (April 2026):** Actively building and maintaining the ASGNetwork server ecosystem — most work lives in private repos, but I'm always reachable.
