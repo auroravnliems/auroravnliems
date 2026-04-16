@@ -141,7 +141,7 @@
 
 ### 🌍 Server Infrastructure — AuroraCraft
 
-- 🌐 [![Site](https://img.shields.io/badge/auroracraft.online-online-brightgreen?style=flat-square)](https://auroracraft.online) **AuroraCraft Network** — Leaf 1.21.x · Pterodactyl on VPS · TCPShield + iptables DDoS mitigation · Cloudflare-proxied panel · Terra world generation (Origen, Tartarus, ReimagEND).
+- 🌐 [![Site](https://img.shields.io/badge/auroracraft.online-online-brightgreen?style=flat-square)](asgmc.net) **ASGNetwork** — Leaf 1.21.x · Pterodactyl on VPS · TCPShield + iptables DDoS mitigation · Cloudflare-proxied panel · Terra world generation (Origen, Tartarus, ReimagEND).
 
 ---
 
