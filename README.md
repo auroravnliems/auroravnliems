@@ -124,25 +124,20 @@
 
 ### 🔧 AuroraCraft Plugin Suite
 
-- ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraCombat?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraCombat/issues) [**AuroraCombat**](https://github.com/auroravnliems/AuroraCombat) - Full PvP combat management — combat tag, PvP toggle, newbie protection, anti-border hopping, item cooldowns, kill rewards & anti-abuse. Paper 1.21.1+ / Folia. **License:** Proprietary.
+- ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraCombat?style=flat-square&color=blue)](http://dsc.gg/auroravn) [**AuroraCombat**](http://dsc.gg/auroravn) - Full PvP combat management — combat tag, PvP toggle, newbie protection, anti-border hopping, item cooldowns, kill rewards & anti-abuse. Paper 1.21.1+ / Folia. **License:** Proprietary.
 
-- 💳 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraDonate?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraDonate/issues) [**AuroraDonate**](https://github.com/auroravnliems/AuroraDonate) - Donation card & bank system integrated with PlayerPoints, with differentiated card/bank reward rates and GUI management.
+- 💳 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraDonate?style=flat-square&color=blue)](http://dsc.gg/auroravn) [**AuroraDonate**](http://dsc.gg/auroravn) - Donation card & bank system integrated with PlayerPoints, with differentiated crypto/paypal/visa/mastercard reward rates and GUI management.
 
-- 🪙 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraToken?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraToken/issues) [**AuroraToken**](https://github.com/auroravnliems/AuroraToken) - Custom token economy with auto-give scheduling, GUI shop, and per-player balance tracking.
+- 🔒 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraSecurity?style=flat-square&color=blue)](http://dsc.gg/auroravn) [**AuroraSecurity**](http://dsc.gg/auroravn) - Plugin license enforcement with License4J, XOR-encoded credentials, and Polymart API validation. **License:** Proprietary.
 
-- 🔒 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraSecurity?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraSecurity/issues) [**AuroraSecurity**](https://github.com/auroravnliems/AuroraSecurity) - Plugin license enforcement with License4J, XOR-encoded credentials, and Polymart API validation. **License:** Proprietary.
-
-- 🔍 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraItemInfo?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraItemInfo/issues) [**AuroraItemInfo**](https://github.com/auroravnliems/AuroraItemInfo) - In-game item inspector that exposes MMOItems stats, Nexo metadata, and custom NBT attributes in a clean formatted view.
+- 🔍 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraItemInfo?style=flat-square&color=blue)](http://dsc.gg/auroravn) [**AuroraItemInfo**](http://dsc.gg/auroravn) - In-game item inspector that exposes MMOItems stats, Nexo metadata, and custom NBT attributes in a clean formatted view.
 
 - 📢 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraPunishNotify?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraPunishNotify/issues) [**AuroraPunishNotify**](https://github.com/auroravnliems/AuroraPunishNotify) - CMI punishment → Discord webhook bridge for real-time staff notifications on ban, kick, mute, and warn events.
 
 ### 🛠️ Forks & Patches
 
-- 📜 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraTooltip?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraTooltip/issues) [**AuroraTooltip**](https://github.com/auroravnliems/AuroraTooltip) - Wynncraft-style multi-page tooltip system with F-key page switching, tier-specific glyphs, and custom stat icon textures via Nexo resource packs.
+- ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraMMOSkills?style=flat-square&color=blue)]([http://dsc.gg/auroravn) [**AuroraMMOSkills**](http://dsc.gg/auroravn)) - Full mcMMO fork rebranded under a new package with a custom GUI module and AuroraCraft-specific skill progression.
 
-- ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraMMOSkills?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraMMOSkills/issues) [**AuroraMMOSkills**](https://github.com/auroravnliems/AuroraMMOSkills) - Full mcMMO fork rebranded under a new package with a custom GUI module and AuroraCraft-specific skill progression.
-
-- 🤖 [![Issues](https://img.shields.io/github/issues/auroravnliems/CitizensPackFix?style=flat-square&color=blue)](https://github.com/auroravnliems/CitizensPackFix/issues) [**CitizensPackFix**](https://github.com/auroravnliems/CitizensPackFix) - Automatically respawns Citizens NPCs after Nexo resource pack pushes reset their display state.
 
 ### 🌍 Server Infrastructure — AuroraCraft
 
@@ -177,7 +172,7 @@ For bugs, feature requests, and general project discussions, please use the issu
 
 ### Server & Business Inquiries
 
-🌐 **[auroracraft.online](https://auroracraft.online)**
+🌐 **[ASGNetwork](http://dsc.gg/auroravn)**
 
 For server-related questions and partnership inquiries.
 
