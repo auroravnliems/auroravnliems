@@ -62,18 +62,6 @@
 <tr>
 <td colspan="2">
 
-### Security & Plugin Protection
-
-![Bytecode](https://img.shields.io/badge/Bytecode_Patching-37474F?style=for-the-badge&logoColor=white)
-![License4J](https://img.shields.io/badge/License4J-7B1FA2?style=for-the-badge&logoColor=white)
-![Polymart](https://img.shields.io/badge/Polymart_API-1976D2?style=for-the-badge&logoColor=white)
-![ProGuard](https://img.shields.io/badge/ProGuard_Obfuscation-E65100?style=for-the-badge&logoColor=white)
-![iptables](https://img.shields.io/badge/iptables-263238?style=for-the-badge&logo=linux&logoColor=white)
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## Focus
