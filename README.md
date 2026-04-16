@@ -1,17 +1,17 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=L%E1%BA%ADp+Tr%C3%ACnh+Minecraft+Plugin;H%E1%BA%A1+T%E1%BA%A7ng+Server+%26+DevOps;Java+%C2%B7+Kotlin+%C2%B7+Paper+API;Bytecode+Patching+%26+R%C3%Bverse+Engineering;B%E1%BA%A3o+M%E1%BA%ADt+%26+Ch%E1%BB%91ng+B%E1%BA%A3n+Sao+Plugin;M%E1%BA%A1ng+AuroraCraft" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Minecraft+Plugin+Developer;Server+Infrastructure+%26+DevOps;Java+%C2%B7+Kotlin+%C2%B7+Paper+API;Bytecode+Patching+%26+Reverse+Engineering;Plugin+Security+%26+Obfuscation;AuroraCraft+Network" alt="Typing SVG" /></a>
 </p>
 
 **[🇬🇧](README.md) | [🇻🇳](README_VI.md)**
 
 ---
 
-> **Ghi chú (Tháng 4/2026):** Đang tập trung xây dựng và duy trì hệ sinh thái server AuroraCraft — hầu hết công việc nằm trong repo private, nhưng vẫn liên lạc được bình thường.
+> **Note (April 2026):** Actively building and maintaining the AuroraCraft server ecosystem — most work lives in private repos, but I'm always reachable.
 
-🇻🇳 Chủ yếu làm việc về phát triển Minecraft plugin, hạ tầng server và build tooling.
+🇻🇳 Working primarily on Minecraft plugin development, server infrastructure, and build tooling.
 
-**Ngôn ngữ:** Tiếng Việt (bản ngữ) · Tiếng Anh (thành thạo)  
-**Trọng tâm:** Java, Kotlin, Paper API, Maven · **Đang học:** Kotlin coroutines, bytecode manipulation nâng cao, ProGuard rule crafting
+**Languages:** Vietnamese (native) · English (fluent)  
+**Focus:** Java, Kotlin, Paper API, Maven · **Learning:** Kotlin coroutines, advanced bytecode manipulation, ProGuard rule crafting
 
 ---
 
@@ -21,7 +21,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### Ngôn ngữ & Framework
+### Languages & Frameworks
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -35,13 +35,14 @@
 ![Leaf](https://img.shields.io/badge/Leaf_1.21.x-43A047?style=for-the-badge&logo=minecraft&logoColor=white)
 ![MythicMobs](https://img.shields.io/badge/MythicMobs-6A1B9A?style=for-the-badge&logoColor=white)
 ![MMOCore](https://img.shields.io/badge/MMOCore-1565C0?style=for-the-badge&logoColor=white)
+![MMOItems](https://img.shields.io/badge/MMOItems-0277BD?style=for-the-badge&logoColor=white)
 ![Nexo](https://img.shields.io/badge/Nexo-00838F?style=for-the-badge&logoColor=white)
 ![BetterHUD](https://img.shields.io/badge/BetterHUD-558B2F?style=for-the-badge&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### Hạ tầng & DevOps
+### Infrastructure & DevOps
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -50,7 +51,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![TCPShield](https://img.shields.io/badge/TCPShield-00BCD4?style=for-the-badge&logoColor=white)
 
-### Công cụ
+### Tools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,25 +60,44 @@
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### Security & Plugin Protection
+
+![Bytecode](https://img.shields.io/badge/Bytecode_Patching-37474F?style=for-the-badge&logoColor=white)
+![License4J](https://img.shields.io/badge/License4J-7B1FA2?style=for-the-badge&logoColor=white)
+![Polymart](https://img.shields.io/badge/Polymart_API-1976D2?style=for-the-badge&logoColor=white)
+![ProGuard](https://img.shields.io/badge/ProGuard_Obfuscation-E65100?style=for-the-badge&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables-263238?style=for-the-badge&logo=linux&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Lĩnh vực
+## Focus
 
-| Lĩnh vực | Chi tiết |
+| Field | Focus Areas |
 | :--- | :--- |
-| **Phát triển Plugin** | Paper plugins, thiết kế API, bytecode patching, obfuscation ProGuard |
-| **Hạ tầng Server** | Pterodactyl / Docker / Wings, iptables, Cloudflare tunnel, chống DDoS |
-| **Hệ thống Game** | Cơ chế MMO (MMOCore/MMOItems), HUD (BetterHUD), tooltip item tùy chỉnh |
-| **Bảo mật & Bảo vệ** | License enforcement, chống bản sao, obfuscation plugin, Polymart API |
+| **Plugin Development** | Paper plugins, API design, bytecode patching, ProGuard obfuscation |
+| **Server Infrastructure** | Pterodactyl / Docker / Wings, iptables, Cloudflare tunnels, DDoS mitigation |
+| **Game Systems** | MMO mechanics (MMOCore/MMOItems), HUD (BetterHUD), custom item tooltips |
+| **Security & Protection** | License enforcement, anti-piracy, plugin obfuscation, Polymart API integration |
+
+## Current Learning
+
+- **JVM & Bytecode:** Advanced ASM manipulation, runtime patching without recompilation, decompilation workflows
+- **Kotlin:** Coroutines, DSL design for plugin configuration, multiplatform
+- **Infrastructure:** Multi-node Pterodactyl setups, advanced Docker networking, VPS hardening
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="assets/langs-donut.svg?cache-bust=1" alt="Phân bố ngôn ngữ" height="220" />
+  <img src="assets/langs-donut.svg?cache-bust=1" alt="Languages distribution" height="220" />
 </p>
 
 <p align="center">
@@ -85,14 +105,52 @@
 </p>
 
 <p align="center">
+  <sub>Automated language tracking system — <a href="docs/LANGUAGE-TRACKING.md">View implementation details</a></sub>
+</p>
+
+<p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&preferLogin=false">
-    <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/auroravnliems?cardType=level-alternate&theme=github-dark&preferLogin=false" />
+    <img alt="auroravnliems's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/auroravnliems?cardType=level-alternate&theme=github-dark&preferLogin=false" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auroravnliems&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Liên hệ
+## Featured Projects
+
+### 🔧 AuroraCraft Plugin Suite
+
+- ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraCombat?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraCombat/issues) [**AuroraCombat**](https://github.com/auroravnliems/AuroraCombat) - Full PvP combat management — combat tag, PvP toggle, newbie protection, anti-border hopping, item cooldowns, kill rewards & anti-abuse. Paper 1.21.1+ / Folia. **License:** Proprietary.
+
+- 💳 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraDonate?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraDonate/issues) [**AuroraDonate**](https://github.com/auroravnliems/AuroraDonate) - Donation card & bank system integrated with PlayerPoints, with differentiated card/bank reward rates and GUI management.
+
+- 🪙 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraToken?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraToken/issues) [**AuroraToken**](https://github.com/auroravnliems/AuroraToken) - Custom token economy with auto-give scheduling, GUI shop, and per-player balance tracking.
+
+- 🔒 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraSecurity?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraSecurity/issues) [**AuroraSecurity**](https://github.com/auroravnliems/AuroraSecurity) - Plugin license enforcement with License4J, XOR-encoded credentials, and Polymart API validation. **License:** Proprietary.
+
+- 🔍 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraItemInfo?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraItemInfo/issues) [**AuroraItemInfo**](https://github.com/auroravnliems/AuroraItemInfo) - In-game item inspector that exposes MMOItems stats, Nexo metadata, and custom NBT attributes in a clean formatted view.
+
+- 📢 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraPunishNotify?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraPunishNotify/issues) [**AuroraPunishNotify**](https://github.com/auroravnliems/AuroraPunishNotify) - CMI punishment → Discord webhook bridge for real-time staff notifications on ban, kick, mute, and warn events.
+
+### 🛠️ Forks & Patches
+
+- 📜 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraTooltip?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraTooltip/issues) [**AuroraTooltip**](https://github.com/auroravnliems/AuroraTooltip) - Wynncraft-style multi-page tooltip system with F-key page switching, tier-specific glyphs, and custom stat icon textures via Nexo resource packs.
+
+- ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraMMOSkills?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraMMOSkills/issues) [**AuroraMMOSkills**](https://github.com/auroravnliems/AuroraMMOSkills) - Full mcMMO fork rebranded under a new package with a custom GUI module and AuroraCraft-specific skill progression.
+
+- 🤖 [![Issues](https://img.shields.io/github/issues/auroravnliems/CitizensPackFix?style=flat-square&color=blue)](https://github.com/auroravnliems/CitizensPackFix/issues) [**CitizensPackFix**](https://github.com/auroravnliems/CitizensPackFix) - Automatically respawns Citizens NPCs after Nexo resource pack pushes reset their display state.
+
+### 🌍 Server Infrastructure — AuroraCraft
+
+- 🌐 [![Site](https://img.shields.io/badge/auroracraft.online-online-brightgreen?style=flat-square)](https://auroracraft.online) **AuroraCraft Network** — Leaf 1.21.x · Pterodactyl on VPS · TCPShield + iptables DDoS mitigation · Cloudflare-proxied panel · Terra world generation (Origen, Tartarus, ReimagEND).
+
+---
+
+## Connect with Me
 
 <p align="center">
   <a href="https://discord.com/users/REPLACE_WITH_YOUR_DISCORD_ID">
@@ -100,18 +158,43 @@
   </a>
 </p>
 
+---
+
+## Contact
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Plugin Issues & Bug Reports
+
+💬 **GitHub Issues**
+
+For bugs, feature requests, and general project discussions, please use the issue tracker on the respective repository.
+
+</td>
+<td width="50%" valign="top">
+
+### Server & Business Inquiries
+
 🌐 **[auroracraft.online](https://auroracraft.online)**
+
+For server-related questions and partnership inquiries.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Giấy phép
+## License
 
-Copyright (c) 2026 auroravnliems. Bảo lưu mọi quyền.
+Copyright (c) 2026 auroravnliems. All rights reserved.
 
-Các plugin thương mại trong profile này được phân phối theo giấy phép source-available độc quyền. Các dự án mã nguồn mở được cấp phép theo giấy phép riêng — xem từng repository để biết chi tiết.
+Commercial plugins in this profile are distributed under a proprietary source-available license. Open-source projects are licensed under their respective licenses — see each repository for details.
 
 ---
 
 <p align="center">
-  <em>Mọi nghiên cứu về bảo mật và obfuscation plugin đều phục vụ mục đích bảo vệ plugin hợp pháp.</em>
+  <em>All plugin security and obfuscation research is strictly for legitimate plugin protection purposes.</em>
 </p>
