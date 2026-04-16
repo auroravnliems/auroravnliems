@@ -54,7 +54,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![ProGuard](https://img.shields.io/badge/ProGuard-FF6F00?style=for-the-badge&logoColor=white)
+![zelix](https://img.shields.io/badge/zelix-239AFB?style=for-the-badge&logoColor=white)
+![allatori](https://img.shields.io/badge/allatori-FB7925?style=for-the-badge&logoColor=white)
 
 </td>
 </tr>
