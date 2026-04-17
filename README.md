@@ -114,7 +114,7 @@
 
 ### 🔧 Aurora_VN Plugin Suite
 
-- ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraCombat?style=flat-square&color=blue)](https://discord.gg/qggYHk2EBt) [**AuroraCombat**](https://discord.gg/qggYHk2EBt) - Full PvP combat management — combat tag, PvP toggle, newbie protection, anti-border hopping, item cooldowns, kill rewards & anti-abuse. Paper 1.21.1+ / Folia. **License:** Proprietary.
+- ⚔️ [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraCombat?style=flat-square&color=blue)](https://github.com/auroravnliems/AuroraCombat) [**AuroraCombat**](https://github.com/auroravnliems/AuroraCombat) - Full PvP combat management — combat tag, PvP toggle, newbie protection, anti-border hopping, item cooldowns, kill rewards & anti-abuse. Paper 1.21.1+ / Folia. **License:** Proprietary.
 
 - 💳 [![Issues](https://img.shields.io/github/issues/auroravnliems/AuroraDonate?style=flat-square&color=blue)](https://discord.gg/qggYHk2EBt) [**AuroraDonate**]([http://dsc.gg/auroravn](https://discord.gg/qggYHk2EBt)) - Donation card & bank system integrated with PlayerPoints, with differentiated crypto/paypal/visa/mastercard reward rates and GUI management.
 
