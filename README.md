@@ -9,7 +9,7 @@
 🇻🇳 Working primarily on Minecraft plugin development, server infrastructure, and build tooling.
 
 **Languages:** Vietnamese (native) · English (fluent)  
-**Focus:** Java, Kotlin, Paper API, Maven · **Learning:** Kotlin coroutines, advanced bytecode manipulation, ProGuard rule crafting
+**Focus:** Java, Kotlin, Paper API, Maven · **Learning:** Kotlin coroutines, advanced bytecode manipulation, Allatori + Zelix rule crafting
 
 ---
 
