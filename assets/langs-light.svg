@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="188" viewBox="0 0 860 188" role="img" aria-labelledby="t">
+<title id="t">Most used languages: Java 75.3%, Kotlin 14.7%, Rust 3.9%, HTML 3.2%, Python 2.4%, JavaScript 0.3%, Other 0.2%</title>
+<style>
+  .h { font: 700 20px -apple-system, 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #2b2140; }
+  .sub { font: 400 13px -apple-system, 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #6f6284; }
+  .ln { font: 600 14px -apple-system, 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #2b2140; }
+  .lp { font: 400 13px ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace; fill: #6f6284; }
+  .seg { transform-box: fill-box; transform-origin: left; animation: grow .8s cubic-bezier(.3,1.2,.5,1) both; }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @media (prefers-reduced-motion: reduce) { .seg { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="859" height="187" rx="14" fill="#ffffff" stroke="#ecdcea"/>
+<text class="h" x="28" y="44">Most used languages</text>
+<text class="sub" x="28" y="64">by code size across own public repos · forks and archived excluded</text>
+<clipPath id="bar"><rect x="28" y="76" width="804" height="14" rx="7"/></clipPath>
+<g clip-path="url(#bar)">
+<rect class="seg" x="28.00" y="76" width="596.71" height="14" fill="#df4d94" style="animation-delay:0.15s"><title>Java 75.3%</title></rect>
+<rect class="seg" x="626.71" y="76" width="116.36" height="14" fill="#2a9cc0" style="animation-delay:0.23s"><title>Kotlin 14.7%</title></rect>
+<rect class="seg" x="745.07" y="76" width="30.63" height="14" fill="#c7800a" style="animation-delay:0.31s"><title>Rust 3.9%</title></rect>
+<rect class="seg" x="777.70" y="76" width="25.60" height="14" fill="#8554c5" style="animation-delay:0.39s"><title>HTML 3.2%</title></rect>
+<rect class="seg" x="805.29" y="76" width="18.67" height="14" fill="#3f9e6e" style="animation-delay:0.47s"><title>Python 2.4%</title></rect>
+<rect class="seg" x="825.97" y="76" width="3.00" height="14" fill="#e0663f" style="animation-delay:0.55s"><title>JavaScript 0.3%</title></rect>
+<rect class="seg" x="830.97" y="76" width="3.00" height="14" fill="#b3a4b9" style="animation-delay:0.63s"><title>Other 0.2%</title></rect>
+</g>
+<rect x="28" y="113" width="12" height="12" rx="3" fill="#df4d94"/>
+<text class="ln" x="48" y="124">Java</text>
+<text class="lp" x="205" y="124" text-anchor="end">75.3%</text>
+<rect x="229" y="113" width="12" height="12" rx="3" fill="#2a9cc0"/>
+<text class="ln" x="249" y="124">Kotlin</text>
+<text class="lp" x="406" y="124" text-anchor="end">14.7%</text>
+<rect x="430" y="113" width="12" height="12" rx="3" fill="#c7800a"/>
+<text class="ln" x="450" y="124">Rust</text>
+<text class="lp" x="607" y="124" text-anchor="end">3.9%</text>
+<rect x="631" y="113" width="12" height="12" rx="3" fill="#8554c5"/>
+<text class="ln" x="651" y="124">HTML</text>
+<text class="lp" x="808" y="124" text-anchor="end">3.2%</text>
+<rect x="28" y="143" width="12" height="12" rx="3" fill="#3f9e6e"/>
+<text class="ln" x="48" y="154">Python</text>
+<text class="lp" x="205" y="154" text-anchor="end">2.4%</text>
+<rect x="229" y="143" width="12" height="12" rx="3" fill="#e0663f"/>
+<text class="ln" x="249" y="154">JavaScript</text>
+<text class="lp" x="406" y="154" text-anchor="end">0.3%</text>
+<rect x="430" y="143" width="12" height="12" rx="3" fill="#b3a4b9"/>
+<text class="ln" x="450" y="154">Other</text>
+<text class="lp" x="607" y="154" text-anchor="end">0.2%</text>
+</svg>

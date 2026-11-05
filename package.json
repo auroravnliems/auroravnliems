@@ -1,0 +1,11 @@
+{
+  "name": "auroravnliems-readme-tools",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "cards": "node scripts/generate-cards.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

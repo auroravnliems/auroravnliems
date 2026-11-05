@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="170" viewBox="0 0 860 170" role="img" aria-labelledby="t">
+<title id="t">Aurora_VN — Minecraft plugin developer</title>
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff3ea5"/><stop offset="1" stop-color="#00d9f5"/></linearGradient>
+</defs>
+<style>
+  .name { font: 800 46px -apple-system, 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: url(#g); letter-spacing: 0.5px; }
+  .hi { font: 600 15px ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace; fill: #a99cc8; letter-spacing: 3px; }
+  .role { font: 600 20px ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Consolas, monospace; fill: #f3ecff; opacity: 0; animation: role 15s infinite; }
+  .star { fill: #ffffff; opacity: 0.35; animation: tw 3.2s ease-in-out infinite; }
+  @keyframes role {
+    0% { opacity: 0; transform: translateY(6px); }
+    2.400% { opacity: 1; transform: none; }
+    17.600% { opacity: 1; transform: none; }
+    20.000%, 100% { opacity: 0; transform: translateY(-6px); }
+  }
+  @keyframes tw { 50% { opacity: 0.9; } }
+  @media (prefers-reduced-motion: reduce) { .role, .star { animation: none; } .role:first-of-type { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" width="859" height="169" rx="14" fill="#0f0b1e" stroke="#2c2150"/>
+<circle class="star" cx="64" cy="38" r="1.6" style="animation-delay:0.0s"/><circle class="star" cx="132" cy="120" r="1.1" style="animation-delay:0.7s"/><circle class="star" cx="210" cy="52" r="1.3" style="animation-delay:1.4s"/><circle class="star" cx="702" cy="40" r="1.5" style="animation-delay:2.1s"/><circle class="star" cx="780" cy="118" r="1.2" style="animation-delay:2.8s"/><circle class="star" cx="612" cy="140" r="1" style="animation-delay:3.5s"/><circle class="star" cx="300" cy="146" r="1" style="animation-delay:4.2s"/><circle class="star" cx="520" cy="30" r="1.2" style="animation-delay:4.9s"/>
+<text class="hi" x="430" y="44" text-anchor="middle">HI, I'M</text>
+<text class="name" x="430" y="92" text-anchor="middle">Aurora_VN</text>
+<rect x="370" y="102" width="120" height="3" rx="1.5" fill="url(#g)"/>
+<g>
+  <text class="role" x="430" y="122" text-anchor="middle" style="animation-delay:0s">Minecraft plugin developer</text>
+  <text class="role" x="430" y="122" text-anchor="middle" style="animation-delay:3s">Author of TachyonScript</text>
+  <text class="role" x="430" y="122" text-anchor="middle" style="animation-delay:6s">Java · Kotlin · Paper API</text>
+  <text class="role" x="430" y="122" text-anchor="middle" style="animation-delay:9s">Server infrastructure &amp; DevOps</text>
+  <text class="role" x="430" y="122" text-anchor="middle" style="animation-delay:12s">Plugin security &amp; obfuscation</text>
+</g>
+</svg>
